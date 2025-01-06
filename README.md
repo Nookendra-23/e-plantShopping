@@ -4,7 +4,7 @@ Welcome to E-commerce website, A Haven of Green and Peace! This project is a sma
 
 ## 🚀 Live Demo
 
-Check out the live demo of the website [here](https://arslanr369.github.io/React-e-plantShopping).
+Check out the live demo of the website [here](https://nookendra-23.github.io/e-plantShopping/).
 
 ## 🌟 Features
 
